@@ -1,0 +1,11 @@
+author: Molly
+markdown: redcarpet
+encoding: utf-8
+
+theme: jekyll-theme-cayman
+title: Amazing Molly
+description: 
+google_analytics: UA-11765858-7
+
+plugins:
+- jekyll-sitemap
